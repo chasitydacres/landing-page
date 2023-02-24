@@ -17,6 +17,12 @@ h1 {
   font-size: 30px;
   padding: 10px 0px;
 }
+h2 {
+  font-size: 26px;
+  font-style: italic;
+  font-weight: lighter;
+  margin: 0 10rem;
+}
 
 p {
   font-size: 18px;
@@ -78,4 +84,9 @@ button {
 
 .cards p {
   margin: 0 5rem;
+}
+
+.quote {
+  padding: 6rem 0;
+  background: #e5e7eb;
 }
