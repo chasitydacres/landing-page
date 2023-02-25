@@ -107,3 +107,10 @@ button {
 .bar button {
   border: #e5e7eb 1px solid;
 }
+
+footer {
+  background: #1f2937;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+}
