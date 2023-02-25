@@ -90,3 +90,20 @@ button {
   padding: 6rem 0;
   background: #e5e7eb;
 }
+
+.signup {
+  padding: 4rem;
+}
+
+.bar {
+  background: #3882f6;
+  margin: 0 8rem;
+  padding: 2rem 0;
+  border-radius: 0.5rem;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+}
+.bar button {
+  border: #e5e7eb 1px solid;
+}
